@@ -1,0 +1,36 @@
+[submodule "bundle/vim-airline"]
+	path = bundle/vim-airline
+	url = https://github.com/bling/vim-airline
+[submodule "bundle/vim-indent-guides"]
+	path = bundle/vim-indent-guides
+	url = https://github.com/nathanaelkane/vim-indent-guides
+[submodule "bundle/vim-javascript"]
+	path = bundle/vim-javascript
+	url = https://github.com/pangloss/vim-javascript
+[submodule "bundle/vim-signify"]
+	path = bundle/vim-signify
+	url = https://github.com/mhinz/vim-signify
+[submodule "bundle/supertab"]
+	path = bundle/supertab
+	url = https://github.com/ervandew/supertab
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = https://github.com/scrooloose/syntastic
+[submodule "bundle/vim-colorschemes"]
+	path = bundle/vim-colorschemes
+	url = https://github.com/flazz/vim-colorschemes
+[submodule "bundle/YouCompleteMe"]
+	path = bundle/YouCompleteMe
+	url = https://github.com/Valloric/YouCompleteMe
+[submodule "bundle/vim-makegreen"]
+	path = bundle/vim-makegreen
+	url = https://github.com/reinh/vim-makegreen
+[submodule "bundle/vim-nose"]
+	path = bundle/vim-nose
+	url = https://github.com/lambdalisue/nose.vim
+[submodule "bundle/vim-colors-solarized"]
+	path = bundle/vim-colors-solarized
+	url = git://github.com/altercation/vim-colors-solarized.git
+[submodule "bundle/vim-node"]
+	path = bundle/vim-node
+	url = https://github.com/moll/vim-node
