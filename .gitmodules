@@ -28,6 +28,7 @@
 [submodule "bundle/vim-nose"]
 	path = bundle/vim-nose
 	url = https://github.com/lambdalisue/nose.vim
+	ignore = dirty
 [submodule "bundle/vim-colors-solarized"]
 	path = bundle/vim-colors-solarized
 	url = git://github.com/altercation/vim-colors-solarized.git
